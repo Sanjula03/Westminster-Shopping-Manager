@@ -1,0 +1,16 @@
+Type: Clothing 
+Product name: Shirt
+Product ID: C001
+Price: Rs300.0
+Size: L
+Colour: Green
+Number of available Items: 4
+---------------
+Type: Electronics 
+Product name: TV
+Product ID: E001
+Price: Rs500.0
+Brand: LG
+Warranty period: 12
+Number of available Items: 3
+---------------
